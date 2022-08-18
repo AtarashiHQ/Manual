@@ -8,7 +8,7 @@
 
 # Technical support from miner manufacturers:
 
-## [Bitmain](https://support.bitmain.com/hc/en-us/categories/115000999127-Product-Manuals)
+## [Bitmain](https://service.bitmain.com/support/productManual)
 ## [Canaan](https://canaan.io/service/447)
 ## [INNOSILICON](https://www.innosilicon.com/html/support_en/download.html)
 ## [MicroBT](https://whatsminer.com/src/views/firmware-download.html)
