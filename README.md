@@ -5,6 +5,7 @@
 ## [Atarashi HQ team](https://atarashihq.com/)
 > *Thank you for choosing us!*
 
+
 # Technical support from miner manufacturers:
 
 ## [Bitmain](https://support.bitmain.com/hc/en-us/categories/115000999127-Product-Manuals)
