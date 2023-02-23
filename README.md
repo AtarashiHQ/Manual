@@ -1,4 +1,4 @@
-# Instructions (manuals) for bitcoin miners.
+# Instructions (manuals) for cryptocurrency miners.
 ### Bitcoin miners manuals (Antminer, Avalon, INNOSILICON, Whatsminer, iPollo, etc).
 ### Before you buy and start using a bitcoin miner, be sure to read the manual!
 
@@ -12,6 +12,7 @@
 ## [Canaan](https://canaan.io/service/447)
 ## [INNOSILICON](https://www.innosilicon.com/html/support_en/download.html)
 ## [MicroBT](https://whatsminer.com/src/views/firmware-download.html)
+## [iPollo](https://ipollo.com/)
 
 
 ![](https://github.com/AtarashiHQ/Bitcoin-miners/blob/main/Logo%20AC.jpg)
